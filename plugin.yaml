@@ -1,0 +1,5 @@
+name: skill-openviking-sync
+version: 1.0.0
+description: Auto-upload agent-created/updated skills to OpenViking (ov add-skill) after skill_manage mutations
+provides_hooks:
+  - post_tool_call
