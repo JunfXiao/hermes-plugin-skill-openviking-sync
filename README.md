@@ -30,7 +30,7 @@ Takes effect on the next Hermes session (restart the desktop app / CLI / gateway
 ## Update
 
 ```bash
-hermes plugins update
+hermes plugins update skill-openviking-sync
 ```
 
 ## Upload pipeline
